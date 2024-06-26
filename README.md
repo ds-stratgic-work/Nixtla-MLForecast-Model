@@ -13,3 +13,7 @@ MLForecast offers several key features that make it a powerful tool for machine 
 
 ### Installation
 %pip install -qqq mlforecast
+
+### References:
+https://nixtlaverse.nixtla.io/mlforecast/
+
